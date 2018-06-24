@@ -1,4 +1,5 @@
-# I built a basic template to connect to any smart contract (both on the ETH mainnet or any testnet)
+# I built a basic template to connect to any smart contract
+##*(both on the ETH mainnet or any testnet)*
 *this project specifically will only run on the ropsten test net, any smart contract deployed on other test nets will need to be added to the switch function at the bottom of app.js*
 
 
