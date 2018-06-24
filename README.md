@@ -1,4 +1,4 @@
-# I built a basic template to connect to any smart contract on any ethereum network
+# I built a basic template to interact with any smart contract on any ethereum network
 *this project specifically will only run on the ropsten test net, any smart contract deployed on other test nets will need to be added to the switch function at the bottom of app.js*
 
 
